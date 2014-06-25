@@ -1,0 +1,5 @@
+general:
+ time_zone: 'Australia/Brisbane'
+ debug: True
+ logfile: 'theamifinder.log'
+ default_region: 'us-east-1'
